@@ -1,0 +1,8 @@
+使用前首先你得先下载python的库:scapy 
+使用版本：Python3.6+
+
+进入目录：..\留学数据获取\Octopedia\Octopedia\commands\
+
+进入终端，运行当前目录下的脚本：Crawler.py
+运行方式：python Crawler.py
+
